@@ -1,4 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving)
+![header](https://capsule-render.vercel.app/api?type=slice&text=Hello!&color=random&fontColor=_d6ace6)
+
+<div align="center">
+:fire: Welcome to my github profile!
+</div>
+
 
 <!--
 **iyj0121/iyj0121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
