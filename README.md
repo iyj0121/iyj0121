@@ -49,8 +49,15 @@
   <br>
 </div>
 
+--------------
+### Notion
+:memo: [notion](https://opposite-exception-39a.notion.site/5e3c5d0b6ed942e1a2235734abfa53f9?pvs=4)
 
-
+--------------
+### Contact
+:mailbox: yeongjae0121@gmail.com
+<br>
+:mailbox: iyj0121@ajou.ac.kr
 <!--
 **iyj0121/iyj0121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
